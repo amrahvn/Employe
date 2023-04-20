@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Microsoft.Office.Interop.Outlook/15.0.4797.1004": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Office.Interop.Outlook.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Office.Interop.Outlook.dll": {}
+        }
+      },
+      "Employe1.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "EmployeApp.Core": "1.0.0",
+          "Microsoft.Office.Interop.Outlook": "15.0.4797.1004"
+        },
+        "compile": {
+          "bin/placeholder/Employe1.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Employe1.Data.dll": {}
+        }
+      },
+      "EmployeApp.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EmployeApp.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeApp.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Office.Interop.Outlook/15.0.4797.1004": {
+      "sha512": "17tdFXg/TGnbmSC9YNkIrB6P3vTSemOMI/TaUaZWQmRE1dMjHIVmBPffQhXasH/te4weHiFk8EEXUCi/NsGbuA==",
+      "type": "package",
+      "path": "microsoft.office.interop.outlook/15.0.4797.1004",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Microsoft.Office.Interop.Outlook.dll",
+        "lib/netstandard2.0/Microsoft.Office.Interop.Outlook.dll",
+        "microsoft.office.interop.outlook.15.0.4797.1004.nupkg.sha512",
+        "microsoft.office.interop.outlook.nuspec"
+      ]
+    },
+    "Employe1.Data/1.0.0": {
+      "type": "project",
+      "path": "../Employe1.Data/Employe1.Data.csproj",
+      "msbuildProject": "../Employe1.Data/Employe1.Data.csproj"
+    },
+    "EmployeApp.Core/1.0.0": {
+      "type": "project",
+      "path": "../EmployeApp.Core/EmployeApp.Core.csproj",
+      "msbuildProject": "../EmployeApp.Core/EmployeApp.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Employe1.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\LENOVA\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\LENOVA\\source\\repos\\EmployeApp.App\\EmployeApp.App\\EmployeApp.App.csproj",
+      "projectName": "EmployeApp.App",
+      "projectPath": "C:\\Users\\LENOVA\\source\\repos\\EmployeApp.App\\EmployeApp.App\\EmployeApp.App.csproj",
+      "packagesPath": "C:\\Users\\LENOVA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LENOVA\\source\\repos\\EmployeApp.App\\EmployeApp.App\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\LENOVA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\LENOVA\\source\\repos\\EmployeApp.App\\Employe1.Data\\Employe1.Data.csproj": {
+              "projectPath": "C:\\Users\\LENOVA\\source\\repos\\EmployeApp.App\\Employe1.Data\\Employe1.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\LENOVA\source\repos\EmployeApp.App\Employe1.Data\bin\Debug\net6.0\Employe1.Data.deps.json
+C:\Users\LENOVA\source\repos\EmployeApp.App\Employe1.Data\bin\Debug\net6.0\Employe1.Data.dll
+C:\Users\LENOVA\source\repos\EmployeApp.App\Employe1.Data\bin\Debug\net6.0\Employe1.Data.pdb
+C:\Users\LENOVA\source\repos\EmployeApp.App\Employe1.Data\bin\Debug\net6.0\EmployeApp.Core.dll
+C:\Users\LENOVA\source\repos\EmployeApp.App\Employe1.Data\bin\Debug\net6.0\EmployeApp.Core.pdb
+C:\Users\LENOVA\source\repos\EmployeApp.App\Employe1.Data\obj\Debug\net6.0\Employe1.Data.csproj.AssemblyReference.cache
+C:\Users\LENOVA\source\repos\EmployeApp.App\Employe1.Data\obj\Debug\net6.0\Employe1.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVA\source\repos\EmployeApp.App\Employe1.Data\obj\Debug\net6.0\Employe1.Data.AssemblyInfoInputs.cache
+C:\Users\LENOVA\source\repos\EmployeApp.App\Employe1.Data\obj\Debug\net6.0\Employe1.Data.AssemblyInfo.cs
+C:\Users\LENOVA\source\repos\EmployeApp.App\Employe1.Data\obj\Debug\net6.0\Employe1.Data.csproj.CoreCompileInputs.cache
+C:\Users\LENOVA\source\repos\EmployeApp.App\Employe1.Data\obj\Debug\net6.0\Employe1.Data.csproj.CopyComplete
+C:\Users\LENOVA\source\repos\EmployeApp.App\Employe1.Data\obj\Debug\net6.0\Employe1.Data.dll
+C:\Users\LENOVA\source\repos\EmployeApp.App\Employe1.Data\obj\Debug\net6.0\refint\Employe1.Data.dll
+C:\Users\LENOVA\source\repos\EmployeApp.App\Employe1.Data\obj\Debug\net6.0\Employe1.Data.pdb
+C:\Users\LENOVA\source\repos\EmployeApp.App\Employe1.Data\obj\Debug\net6.0\ref\Employe1.Data.dll

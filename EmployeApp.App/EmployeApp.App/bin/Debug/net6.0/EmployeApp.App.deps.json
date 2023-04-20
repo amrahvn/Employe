@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EmployeApp.App/1.0.0": {
+        "dependencies": {
+          "Employe1.Data": "1.0.0"
+        },
+        "runtime": {
+          "EmployeApp.App.dll": {}
+        }
+      },
+      "Microsoft.Office.Interop.Outlook/15.0.4797.1004": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Office.Interop.Outlook.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4797.1003"
+          }
+        }
+      },
+      "Employe1.Data/1.0.0": {
+        "dependencies": {
+          "EmployeApp.Core": "1.0.0",
+          "Microsoft.Office.Interop.Outlook": "15.0.4797.1004"
+        },
+        "runtime": {
+          "Employe1.Data.dll": {}
+        }
+      },
+      "EmployeApp.Core/1.0.0": {
+        "runtime": {
+          "EmployeApp.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeApp.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Office.Interop.Outlook/15.0.4797.1004": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-17tdFXg/TGnbmSC9YNkIrB6P3vTSemOMI/TaUaZWQmRE1dMjHIVmBPffQhXasH/te4weHiFk8EEXUCi/NsGbuA==",
+      "path": "microsoft.office.interop.outlook/15.0.4797.1004",
+      "hashPath": "microsoft.office.interop.outlook.15.0.4797.1004.nupkg.sha512"
+    },
+    "Employe1.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

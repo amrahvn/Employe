@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GzcfI/xCYH1yJI9VCU5mqGWq2afI5VoRQOKpzb0k1tX5DPQ5HGKR9O9gTFAeQsMUfeHO1kADbPdseLaO8ujjQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVA\\source\\repos\\EmployeApp.App\\Employe1.Data\\Employe1.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVA\\.nuget\\packages\\microsoft.office.interop.outlook\\15.0.4797.1004\\microsoft.office.interop.outlook.15.0.4797.1004.nupkg.sha512"
+  ],
+  "logs": []
+}
